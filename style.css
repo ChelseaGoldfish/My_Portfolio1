@@ -1,0 +1,23 @@
+
+.navParent {
+    background-color: #6B6E71;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home, .about, .myWork {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navParent a {
+    color: #DCD5CB;
+    padding: 10px;
+    font-size: 18px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
