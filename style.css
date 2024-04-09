@@ -100,6 +100,13 @@ button {
     height: 30px;
 }
 
+.viewAllProjects {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #DCD5CB;
+}
+
 @media only screen and (max-width: 600) {
 
     .skillsParent {
